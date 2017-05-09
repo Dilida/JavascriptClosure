@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana,"微軟正黑體","新細明體-ExtB";
+    
+}
+
+.main {
+    margin: 0 auto;
+    width: 400px;    
+    
+}
+
+.main ul {
+    list-style: none;
+}
+
+.main ul li {
+    text-align: left;
+    padding: 8px;
+}
+
+a {
+    text-decoration: none;
+    text-align: left;
+    color: cadetblue;
+}
